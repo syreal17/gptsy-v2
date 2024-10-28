@@ -7,10 +7,10 @@ model = GPTNeoForCausalLM.from_pretrained(model_name)
 tokenizer = GPT2Tokenizer.from_pretrained(model_name)
 
 # Define prompt
-prompts = ["Lumere feels", "Lumere felt", "Lumere is feeling", "Lumere will feel"]
+prompts = ["Lumere feels"]
 
 # Settings for generation
-num_samples = 100  # Number of samples per prompt
+num_samples = 1000  # Number of samples per prompt
 max_length = 10  # Prompt length + 1 word
 temperature = 0.7  # Adjust to control randomness
 
