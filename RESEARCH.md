@@ -7,6 +7,7 @@
 1. **Defining and Exploring “Core Responses”**:
    - Observing patterns in high-frequency words, especially filler words, to identify the model’s “default” responses in vague prompts.
    - Investigating whether certain words (like “that,” “the,” “like”) appear more due to high-probability defaults and how that affects representativeness.
+     - Ongoing investigation, see this [experiment](/experiments/the-feels/)
 
 1. **Experimenting with Sampling Parameters**:
    - Exploring how parameters like temperature, top-p, and top-k affect diversity and creativity in responses. Adjusting these parameters might help capture a broader range of outputs beyond default words.
@@ -14,6 +15,7 @@
 
 1. **Investigating Rare and Specific Words**:
    - Noting that words like “confident,” “threatened,” “fearful,” and “guilty” appeared in response to vague prompts.
+     - Observed in this [experiment](/experiments/the-feels/)
    - Considering the impact of vague prompts on the emergence of more complex, introspective emotions rather than basic ones like “happy” or “sad.”
    - Testing whether more targeted prompts can elicit simpler emotions and clearer states.
    - Testing if changing the name of the person changes the emotions elicited.
