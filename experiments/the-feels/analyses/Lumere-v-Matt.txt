@@ -1,0 +1,164 @@
+Shared Words (Word: Count in File1 vs. Count in File2):
+that: 5107 vs. 2718
+like: 1344 vs. 1482
+the: 1080 vs. 1707
+a: 547 vs. 763
+he: 68 vs. 745
+it: 137 vs. 221
+,: 251 vs. 36
+it's: 38 vs. 191
+he’s: 7 vs. 221
+his: 13 vs. 188
+it’s: 42 vs. 158
+as: 79 vs. 107
+about: 154 vs. 24
+this: 75 vs. 77
+she: 3 vs. 124
+more: 93 vs. 23
+you: 28 vs. 83
+he's: 11 vs. 100
+so: 43 vs. 57
+that,: 77 vs. 14
+in: 56 vs. 18
+I: 9 vs. 62
+she’s: 2 vs. 67
+good: 21 vs. 40
+.: 38 vs. 14
+no: 35 vs. 15
+very: 17 vs. 31
+an: 21 vs. 24
+free: 34 vs. 9
+guilty: 14 vs. 25
+its: 28 vs. 10
+compelled: 16 vs. 17
+there: 13 vs. 19
+we: 22 vs. 8
+for: 13 vs. 15
+she's: 1 vs. 25
+I'm: 1 vs. 23
+confident: 8 vs. 16
+I’m: 2 vs. 21
+you're: 5 vs. 16
+nothing: 11 vs. 9
+you’re: 4 vs. 15
+lost: 7 vs. 4
+The: 8 vs. 1
+I’ve: 3 vs. 6
+there’s: 3 vs. 5
+good,: 5 vs. 2
+like,: 3 vs. 4
+it,: 2 vs. 3
+he'd: 1 vs. 4
+I've: 1 vs. 4
+you've: 1 vs. 4
+there's: 3 vs. 1
+it.: 1 vs. 2
+What: 2 vs. 1
+guilty.: 1 vs. 1
+this,: 1 vs. 1
+feels: 1 vs. 1
+It’s: 1 vs. 1
+you,: 1 vs. 1
+Prompt:: 1 vs. 1
+guilty,: 1 vs. 1
+
+Unique to File1 (Word: Count):
+to: 80
+is: 34
+at: 33
+not: 28
+and: 27
+threatened: 25
+:: 21
+with: 16
+of: 13
+proud: 13
+much: 13
+one: 10
+on: 10
+less: 8
+forced: 8
+right: 7
+confident.: 3
+good.: 3
+“the: 3
+A: 2
+we’ve: 2
+you’ll: 1
+Rappaholics: 1
+This: 1
+By: 1
+“worse”: 1
+Solve: 1
+Lumere: 1
+Huge: 1
+in-depth: 1
+“a: 1
+good.": 1
+Dennis: 1
+“futile�: 1
+In: 1
+threatened.: 1
+It's: 1
+“dissolved�: 1
+it:: 1
+not,: 1
+atypical: 1
+right:: 1
+confident,: 1
+“The: 1
+we're: 1
+no.: 1
+Fantastic: 1
+“all: 1
+3.: 1
+‘an’: 1
+
+Unique to File2 (Word: Count):
+bad: 71
+her: 33
+really: 30
+they: 28
+pretty: 21
+that’s: 20
+something: 20
+sorry: 19
+some: 18
+that's: 17
+sick: 14
+if: 13
+all: 12
+your: 10
+lucky: 10
+comfortable: 7
+great: 7
+sad: 7
+overwhelmed: 7
+he'll: 4
+they're: 4
+they’re: 4
+he’d: 4
+great.: 4
+lost.: 4
+something's: 3
+that.: 3
+he’ll: 2
+bad.: 2
+great,: 2
+good-looking: 1
+you'll: 1
+you.: 1
+they've: 1
+sick.: 1
+HERE: 1
+sad,: 1
+there.: 1
+we’re: 1
+comfortable.: 1
+really,: 1
+I'll: 1
+nothing.: 1
+lost,: 1
+you’ve: 1
+that“I: 1
+Matt: 1
