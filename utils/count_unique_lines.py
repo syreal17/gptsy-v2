@@ -8,7 +8,7 @@ def count_unique_lines(filename):
         line_counts = Counter(lines)
 
     # Display each unique line and its count
-    for line, count in line_counts.items():
+    for line, count in line_counts.most_common():
         print(f"{line.strip()}: {count}")
 
 # Check if filename is provided as a command line argument
