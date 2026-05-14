@@ -7,9 +7,12 @@ def count_unique_lines(filename):
         lines = file.readlines()
         line_counts = Counter(lines)
 
+    percent_sum = 0
     # Display each unique line and its count
     for line, count in line_counts.most_common():
-        print(f"{line.strip()}: {count}")
+        percent = count/len(lines)*100
+        percent_sum += percent
+        print(f"{line.strip()}: {count}, {percent:.2f}%, {percent_sum:.2f}%")
 
 # Check if filename is provided as a command line argument
 if __name__ == "__main__":
