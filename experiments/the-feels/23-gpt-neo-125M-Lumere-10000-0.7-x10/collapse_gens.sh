@@ -10,3 +10,5 @@ cat generation_output.7.txt >> generation_output.total.txt
 cat generation_output.8.txt >> generation_output.total.txt
 cat generation_output.9.txt >> generation_output.total.txt
 cat generation_output.10.txt >> generation_output.total.txt
+
+python3 ../../../utils/count_unique_lines.py generation_output.total.txt > output_summation.total.txt
